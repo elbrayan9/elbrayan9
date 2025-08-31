@@ -14,7 +14,7 @@ Desarrollador Full Stack con una sólida formación en tecnologías modernas a t
 - 🔭 Actualmente estoy enfocado en perfeccionar mis habilidades en arquitecturas de backend y escalabilidad.
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías para mejorar mis proyectos.
 - 👯 Busco colaborar en proyectos innovadores y desafiantes.
-- 📫 Cómo contactarme: [brian.oviedo.coder@email.com](mailto:brian.oviedo.coder@email.com) (¡reemplaza con tu email!)
+- 📫 Cómo contactarme: [brianoviedo14@gmail.com](mailto:brianoviedo14@gmail.com) (¡reemplaza con tu email!)
 
 ---
 
@@ -122,7 +122,7 @@ Desarrollador Full Stack con una sólida formación en tecnologías modernas a t
 ### 📬 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brian-oviedo/(https://www.linkedin.com/in/brian-oviedo-1a04ba262/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https:/www.linkedin.com/in/brian-oviedo-1a04ba262//(https://www.linkedin.com/in/brian-oviedo-1a04ba262/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
   <a href="mailto:brianoviedo14@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
