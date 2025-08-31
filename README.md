@@ -14,8 +14,7 @@ Desarrollador Full Stack con una sólida formación en tecnologías modernas a t
 - 🔭 Actualmente estoy enfocado en perfeccionar mis habilidades en arquitecturas de backend y escalabilidad.
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías para mejorar mis proyectos.
 - 👯 Busco colaborar en proyectos innovadores y desafiantes.
-- 📫 Cómo contactarme: [brianoviedo14@gmail.com](mailto:brianoviedo14@gmail.com) (¡reemplaza con tu email!)
-
+- 📫 Cómo contactarme: [brianoviedo14@gmail.com](mailto:brianoviedo14@gmail.com)
 ---
 
 ### 🛠️ Tecnologías y Herramientas
