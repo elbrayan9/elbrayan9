@@ -1,6 +1,5 @@
 <!-- Encabezado con imagen de perfil y presentación -->
 <div align="center">
-  <img src="(https://media.licdn.com/dms/image/v2/D4D03AQEEoTXNTsh9FA/profile-displayphoto-crop_800_800/B4DZiRGuWmHsAI-/0/1754781117031?e=1759363200&v=beta&t=GwN6x6lgqjastNNWxBR3g1jN3vxnH7GbqXzPrjr8mo8)" alt="Tu Nombre" width="150" height="150" style="border-radius:50%;">
   <h1>¡Hola! Soy Brian Oviedo</h1>
   <h3>Full Stack Developer | React · Node.js · Java · Next.js · Firebase</h3>
   <p>Apasionado por construir aplicaciones web escalables y eficientes.</p>
@@ -123,7 +122,7 @@ Desarrollador Full Stack con una sólida formación en tecnologías modernas a t
 ### 📬 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brian-oviedo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/brian-oviedo/(https://www.linkedin.com/in/brian-oviedo-1a04ba262/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
   <a href="mailto:brianoviedo14@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
