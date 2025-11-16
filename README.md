@@ -1,4 +1,3 @@
-<!-- Encabezado con imagen de perfil y presentación -->
 <div align="center">
   <h1>¡Hola! Soy Brian Oviedo</h1>
   <h3>Full Stack Developer | React · Node.js · Java · Next.js · Firebase</h3>
@@ -53,6 +52,10 @@ Desarrollador Full Stack con una sólida formación en tecnologías modernas a t
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
   <a href="#"><img alt="Scrum" src="https://img.shields.io/badge/Scrum-0096D1?style=for-the-badge&logo=jira&logoColor=white"></a>
+  <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"></a>
+  <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white"></a>
 </p>
 
 ---
@@ -95,9 +98,9 @@ Desarrollador Full Stack con una sólida formación en tecnologías modernas a t
     </td>
     <td width="50%">
       <h4 align="center">Backend de E-commerce con Node.js</h4>
-      <p>API REST para un e-commerce, desarrollada con Node.js y Express. Incluye gestión de productos y carritos con persistencia en MongoDB y vistas renderizadas del lado del servidor utilizando Handlebars.</p>
+      <p>API REST robusta con arquitectura en capas (DAO, DTO, Repository), autenticación JWT, tests de integración (Mocha/Chai) y documentación con Swagger. Incluye un flujo de compra completo con generación de tickets.</p>
       <p align="center">
-        <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Mongoose</code> <code>Handlebars</code>
+        <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code> <code>Swagger</code> <code>Docker</code> <code>Mocha</code>
       </p>
       <p align="center">
         <a href="https://github.com/elbrayan9/e-commerce">Ver Repositorio</a>
